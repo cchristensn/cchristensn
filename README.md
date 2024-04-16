@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is Caleb Christensen, I am currently a student at BYU studying statistics. 
+I love strategy and board games.
 <!--
 **cchristensn/cchristensn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
